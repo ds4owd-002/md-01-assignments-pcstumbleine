@@ -1,5 +1,6 @@
 ---
 title: "Module 1 assignment"
+author: Padraic Casserly
 format:
   html:
     embed-resources: true
@@ -22,7 +23,7 @@ These will be the details that git will use to identify you when you make change
 
 ```{r}
 library(usethis)
-use_git_config(user.name = "Your Name", user.email = "Your Email")
+use_git_config(user.name = "PCstumbleine", user.email = "pcasserly@ethz.ch")
 ```
 
 ## Task 2: Data communication
